@@ -1,0 +1,3 @@
+﻿  main.cpp
+g:\appphys prac 1\appphys prac 1\main.cpp(179): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  AppPhys Prac 1.vcxproj -> G:\AppPhys Prac 1\Debug\AppPhys Prac 1.exe
